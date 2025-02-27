@@ -24,7 +24,7 @@
             br++;
         }
 
-        new array with the square of the elements of the first array
+        //new array with the square of the elements of the first array
         while (br < arr.Length)
         {
             arr2[br] = (int)Math.Pow(arr[br], 2);
