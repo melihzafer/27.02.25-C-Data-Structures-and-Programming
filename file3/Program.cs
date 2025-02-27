@@ -22,7 +22,7 @@
         int[,] arr2 = new int[3, 3];
         int[,] arr3 = new int[3, 3];
         Random random = new Random();
-
+        
         Console.WriteLine("Array 1 with random numbers:");
         for (int i = 0; i < arr1.GetLength(0); i++)
         {
@@ -33,7 +33,7 @@
             }
             Console.WriteLine();
         }
-
+        
         Console.WriteLine("====================================");
         Console.WriteLine("Array 2 with random numbers:");
         for (int i = 0; i < arr2.GetLength(0); i++)
@@ -45,7 +45,7 @@
             }
             Console.WriteLine();
         }
-
+        
         Console.WriteLine("====================================");
         Console.WriteLine("Array 3 with random numbers:");
         for (int i = 0; i < arr3.GetLength(0); i++)
