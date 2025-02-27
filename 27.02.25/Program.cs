@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MyNampespace
+﻿namespace MyNampespace
 {
     internal class Program
     {
@@ -8,6 +6,8 @@ namespace MyNampespace
         {
             //replacingString();
             //outputTheFruitsStartWithA();
+
+
 
         }
         static void replacingString()
